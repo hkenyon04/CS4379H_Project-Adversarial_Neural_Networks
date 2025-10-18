@@ -1,0 +1,154 @@
+{
+  "512": [
+    {
+      "communication_accuracy": 0.9027900651097298,
+      "eve_success_rate": 0.6934030383825303,
+      "secrecy_score": 3.350192427635193,
+      "stability_score": 0.9863202700991114,
+      "convergence_iteration": 89,
+      "bob_accuracy_std": 0.005701104278605449,
+      "eve_accuracy_std": 0.008168356094052297,
+      "batch_size": 512,
+      "run": 1,
+      "training_time": 6.499792098999023
+    },
+    {
+      "communication_accuracy": 0.9256303742527962,
+      "eve_success_rate": 0.70441674888134,
+      "secrecy_score": 3.5394180059432983,
+      "stability_score": 0.986216538193511,
+      "convergence_iteration": 73,
+      "bob_accuracy_std": 0.00475139346633139,
+      "eve_accuracy_std": 0.00922470739254953,
+      "batch_size": 512,
+      "run": 2,
+      "training_time": 6.420467376708984
+    },
+    {
+      "communication_accuracy": 0.9207254678010941,
+      "eve_success_rate": 0.697708323597908,
+      "secrecy_score": 3.5682743072509764,
+      "stability_score": 0.9777141804642726,
+      "convergence_iteration": 88,
+      "bob_accuracy_std": 0.014323654475606747,
+      "eve_accuracy_std": 0.008470143528984961,
+      "batch_size": 512,
+      "run": 3,
+      "training_time": 6.241314172744751
+    }
+  ],
+  "1024": [
+    {
+      "communication_accuracy": 0.9581338264048099,
+      "eve_success_rate": 0.6714625865221023,
+      "secrecy_score": 4.5867398381233215,
+      "stability_score": 0.984857984910821,
+      "convergence_iteration": 71,
+      "bob_accuracy_std": 0.009935314855981613,
+      "eve_accuracy_std": 0.005439506002632065,
+      "batch_size": 1024,
+      "run": 1,
+      "training_time": 6.787821054458618
+    },
+    {
+      "communication_accuracy": 0.9283667944371701,
+      "eve_success_rate": 0.6876547187566757,
+      "secrecy_score": 3.8513932108879088,
+      "stability_score": 0.9892495056361513,
+      "convergence_iteration": 63,
+      "bob_accuracy_std": 0.0033627121549984536,
+      "eve_accuracy_std": 0.007504611308494745,
+      "batch_size": 1024,
+      "run": 2,
+      "training_time": 6.77019476890564
+    },
+    {
+      "communication_accuracy": 0.9073874279856682,
+      "eve_success_rate": 0.6703450620174408,
+      "secrecy_score": 3.7926778554916383,
+      "stability_score": 0.9905065054785206,
+      "convergence_iteration": 78,
+      "bob_accuracy_std": 0.00399468869545165,
+      "eve_accuracy_std": 0.005589796079732301,
+      "batch_size": 1024,
+      "run": 3,
+      "training_time": 7.470602989196777
+    }
+  ],
+  "2048": [
+    {
+      "communication_accuracy": 0.9596404761075974,
+      "eve_success_rate": 0.6622828036546707,
+      "secrecy_score": 4.7577227592468265,
+      "stability_score": 0.9869241840385024,
+      "convergence_iteration": 54,
+      "bob_accuracy_std": 0.0015135800348979342,
+      "eve_accuracy_std": 0.011735478173394416,
+      "batch_size": 2048,
+      "run": 1,
+      "training_time": 8.897228240966797
+    },
+    {
+      "communication_accuracy": 0.9317793261259795,
+      "eve_success_rate": 0.6675692796707153,
+      "secrecy_score": 4.227360743284225,
+      "stability_score": 0.9820770962880153,
+      "convergence_iteration": 74,
+      "bob_accuracy_std": 0.013830638687183284,
+      "eve_accuracy_std": 0.004419357957406226,
+      "batch_size": 2048,
+      "run": 2,
+      "training_time": 8.377070426940918
+    },
+    {
+      "communication_accuracy": 0.9421101298183203,
+      "eve_success_rate": 0.6586581230163574,
+      "secrecy_score": 4.535232108831406,
+      "stability_score": 0.9905168912682351,
+      "convergence_iteration": 67,
+      "bob_accuracy_std": 0.006073968057983799,
+      "eve_accuracy_std": 0.0034999309995305196,
+      "batch_size": 2048,
+      "run": 3,
+      "training_time": 8.316285848617554
+    }
+  ],
+  "4096": [
+    {
+      "communication_accuracy": 0.9612296991050243,
+      "eve_success_rate": 0.6490512669086457,
+      "secrecy_score": 4.994854915142059,
+      "stability_score": 0.9883385355064331,
+      "convergence_iteration": 57,
+      "bob_accuracy_std": 0.009299359256574942,
+      "eve_accuracy_std": 0.002499699542231669,
+      "batch_size": 4096,
+      "run": 1,
+      "training_time": 12.004884004592896
+    },
+    {
+      "communication_accuracy": 0.9619013112038374,
+      "eve_success_rate": 0.6522053241729736,
+      "secrecy_score": 4.95513579249382,
+      "stability_score": 0.9945658539951574,
+      "convergence_iteration": 63,
+      "bob_accuracy_std": 0.0030227988916822026,
+      "eve_accuracy_std": 0.002441038402765152,
+      "batch_size": 4096,
+      "run": 2,
+      "training_time": 10.949702501296997
+    },
+    {
+      "communication_accuracy": 0.9393921744078397,
+      "eve_success_rate": 0.6540069162845612,
+      "secrecy_score": 4.566164129972458,
+      "stability_score": 0.9926469687325669,
+      "convergence_iteration": 55,
+      "bob_accuracy_std": 0.0034347775088642233,
+      "eve_accuracy_std": 0.003972721329138344,
+      "batch_size": 4096,
+      "run": 3,
+      "training_time": 11.521915197372437
+    }
+  ]
+}

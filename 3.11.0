@@ -1,0 +1,2 @@
+Requirement already satisfied: h5py in c:\users\hkeny\anaconda3\envs\neural_crypto\lib\site-packages (3.10.0)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\hkeny\anaconda3\envs\neural_crypto\lib\site-packages (from h5py) (2.0.1)
