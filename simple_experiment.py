@@ -295,9 +295,6 @@ def print_recommendations(all_results):
 
 
 if __name__ == "__main__":
-    # Run quick test (2 batch sizes, 2 runs, 50 iterations)
-    # Uncomment for full experiment:
-    # run_batch_experiment([512, 1024, 2048, 4096], num_runs=3, num_iterations=100)
-    
-    # Quick test (faster):
+    # Run tested batch experiment with batches 512, 1024, 2048, 4096, 3 runs each, 100 iterations
     run_batch_experiment([512, 1024, 2048, 4096], num_runs=3, num_iterations=100)
+    
